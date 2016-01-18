@@ -1,7 +1,7 @@
 name: Shop1
 favicon: null
-layout_spectrum: 0.22949
-typography_spectrum: 0.12517
+layout_spectrum: 0.2326426524668932
+typography_spectrum: 0.9821784060914069
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.9375
-  lightness: 0.5625
-  saturation: 0.375
+  brandStrength: 0.3986007578205317
+  lightness: 0.7105275741778314
+  saturation: 0.5438378157559782
   rhythmicContrast: 0.48022344219498336
 purpose: []
